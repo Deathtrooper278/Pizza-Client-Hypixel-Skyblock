@@ -29,3 +29,4 @@ There's still a shit ton more features, like a shit ton of esps and shit, but i 
 Upcoming:
 -Auto Fishing Macro
 -Pathfinding
+a
