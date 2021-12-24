@@ -57,5 +57,4 @@ Upcoming:
 -Pathfinding
 
 If the file is a .zip, just rename it to a .jar.
-
-[Pizza_Client-1.1.zip](https://github.com/oRevex/Pizza-Client-Hypixel-Skyblock/files/7772468/Pizza_Client-1.1.zip)
+[Pizza_Client-1.1.zip](https://github.com/oRevex/Pizza-Client-Hypixel-Skyblock/files/7775056/Pizza_Client-1.1.zip)
