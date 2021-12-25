@@ -60,3 +60,4 @@ If the file is a .zip, just rename it to a .jar.
 
 
 [Pizza_Client-1.1.zip](https://github.com/oRevex/Pizza-Client-Hypixel-Skyblock/files/7775275/Pizza_Client-1.1.zip)
+(Only For Educational Purposes)
