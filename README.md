@@ -55,3 +55,5 @@ Upcoming:
 -Auto Fishing Macro
 
 -Pathfinding
+
+Discord For Updates: https://discord.gg/7pUsJYzD4a
